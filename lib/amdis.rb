@@ -289,7 +289,7 @@ module AMDIS
     # @!attribute [r] resolution
     #   @return [Float]
     # @!attribute [r] comment
-    #   @return [AMDIS::MSL::Comment]
+    #   @return [String]
     # @!attribute [r] peaks_count
     #   @return [Fixnum]
     # @!attribute [r] peaks
