@@ -109,7 +109,7 @@ module AMDIS
         end
 
         ###
-        # Hypenate Chemical Abstracts Service (CAS) number.
+        # Hyphenate Chemical Abstracts Service (CAS) number.
         #
         # According to the specification, a CAS number consists of three,
         # hyphen-separated segments, consisting of:
